@@ -1,7 +1,31 @@
 # Backyard Leisure — Logo Usage
 
-> ⚠️ Logo asset path: `[TO CONFIRM when back at office]`
+> Google Drive Logo Package: https://drive.google.com/drive/folders/1KurYeFY1HMp_3HViME603rEIAlsPpV7W
 > Current website logo URL: https://www.backyardleisure.ca/wp-content/uploads/2026/01/PNG_light-bg-wide-1-1.webp
+
+---
+
+## Logo Files — Google Drive
+
+### PNG Versions (folder: `/Backyard Leisure Logo Package/PNG/`)
+| File | Description | Drive Link |
+|---|---|---|
+| `Backyard Leisure Logo 600 x 400.png` | Standard logo, 600×400px | [View](https://drive.google.com/file/d/1apLnJOnGFNqyucv0-RJYKPvG5N94gLjb/view) |
+| `Backyard Leisure w address 1 line.png` | Logo + address (1 line) | [View](https://drive.google.com/file/d/1HyR2_A6Ta-7jwv_QY5F4_EX8lemg0RH9/view) |
+| `Backyard Leisure w address 2 lines.png` | Logo + address (2 lines) | [View](https://drive.google.com/file/d/1koT4kjf1IYMPVaMuGor_KOy_oxxo05y4/view) |
+| `Backyard Leisure w large address.png` | Logo + large address block | [View](https://drive.google.com/file/d/12igFdBUIBLgzzexsJsWo7lGIIidz12CW/view) |
+
+### JPG Versions (folder: `/Backyard Leisure Logo Package/JPG/`)
+| File | Description | Drive Link |
+|---|---|---|
+| Same set as PNG above | JPG format equivalents | [Browse folder](https://drive.google.com/drive/folders/1gAPXcmsAcIFXPF0vHnKgzQlRsV-euIqD) |
+
+### Other Logo Assets
+| File | Description | Drive Link |
+|---|---|---|
+| `Backyard Leisure Drop With Background.svg` | Water drop icon with background (SVG) | [View](https://drive.google.com/file/d/1AV6GPmHh7aYTZ8EWz-WwBg1e6V0nOoJY/view) |
+| `Backyard Leisure.png` | Legacy full-color logo PNG | [View](https://drive.google.com/file/d/1GlERIyMvmIxA4jFg0NwCE5wGOPQihDih/view) |
+| `Backyard Leisure gray background.png` | Logo on gray background | [View](https://drive.google.com/file/d/1MYLM103XbuG8qJDmCbT-tLeAt7yau1cj/view) |
 
 ---
 
@@ -9,10 +33,14 @@
 
 | Version | Background | File to Use |
 |---|---|---|
-| Full color (light bg) | White / Off-White | `PNG_light-bg-wide` |
+| Standard (web/digital) | White / Off-White | `Backyard Leisure Logo 600 x 400.png` |
+| With address (print) | White | `Backyard Leisure w address 1 line.png` or 2 lines |
+| With large address block | White | `Backyard Leisure w large address.png` |
+| Water drop icon | Any | `Backyard Leisure Drop With Background.svg` |
+| Website header | Light bg | `PNG_light-bg-wide` (live on site) |
 | Full color (dark bg) | Navy / Dark | `[TO CONFIRM — request dark bg version]` |
 | White/reversed | Dark backgrounds | `[TO CONFIRM]` |
-| Icon only | Where full logo won't fit | `[TO CONFIRM]` |
+| Icon only / favicon | Where full logo won't fit | `[TO CONFIRM]` |
 
 ---
 
@@ -79,4 +107,4 @@ Always use partner brand logos exactly as provided by those manufacturers.
 
 ---
 
-*Request final logo files from the Backyard Leisure team or DesignStudio (site creator) when available.*
+*Still needed: dark background version, white/reversed version, and icon-only/favicon version. Request from DesignStudio when available.*
